@@ -1,0 +1,155 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.3 2021.07, Jul 13 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/runner
+T_opt
+!s110 1690407103
+VXFZTQ4KU<8V[64JcjVSZz0
+04 14 4 work lab3_part2_tbf fast 0
+=1-000ae431a4f1-64c190bf-5a6a9-e
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc=npr
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.3;73
+Xdesign_sv_unit
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 DXx4 work 13 light_package 0 22 h?lMDIR9JD`^mbP::<2NA3
+Z4 !s110 1690407102
+Vji7^3]K:6Xjjk>HI;O[Jj2
+r1
+!s85 0
+!i10b 1
+!s100 QWLOH<hWCJf?S_ahDf;Z83
+Iji7^3]K:6Xjjk>HI;O[Jj2
+!i103 1
+S1
+R0
+Z5 w1690407101
+8design.sv
+Fdesign.sv
+Z6 Flight_package.sv
+Z7 Ftraffic_light_controller_part2_starter.sv
+!i122 0
+Z8 L0 6 0
+Z9 OL;L;2021.3;73
+31
+Z10 !s108 1690407102.000000
+Z11 !s107 lab3_part2_tb_file.sv|traffic_light_controller_part2_starter.sv|light_package.sv|testbench.sv|design.sv|
+Z12 !s90 -writetoplevels|questa.tops|-timescale|1ns/1ns|design.sv|testbench.sv|
+!i113 0
+Z13 o-timescale 1ns/1ns
+R1
+vlab3_part2_tbf
+R2
+R3
+DXx4 work 17 testbench_sv_unit 0 22 lGz2n@XVBl<oc7^`iY];N3
+R4
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 LNcP8HR=;CfU@M@70:b4U2
+INoHWG]hGH=HCo:h:L_@N[2
+!s105 testbench_sv_unit
+S1
+R0
+R5
+8lab3_part2_tb_file.sv
+Z15 Flab3_part2_tb_file.sv
+!i122 0
+L0 7 158
+R9
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+Xlight_package
+R2
+R4
+!i10b 1
+!s100 ^hR55hXDd1T<>W<oHXkWQ2
+Ih?lMDIR9JD`^mbP::<2NA3
+S1
+R0
+R5
+8light_package.sv
+R6
+!i122 0
+L0 3 0
+Vh?lMDIR9JD`^mbP::<2NA3
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+Xtestbench_sv_unit
+R2
+R3
+R4
+VlGz2n@XVBl<oc7^`iY];N3
+r1
+!s85 0
+!i10b 1
+!s100 zzMKUK9akJY;3:iYCiD6<1
+IlGz2n@XVBl<oc7^`iY];N3
+!i103 1
+S1
+R0
+R5
+8testbench.sv
+Ftestbench.sv
+R15
+!i122 0
+R8
+R9
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1
+vtraffic_light_controller
+R2
+R3
+DXx4 work 14 design_sv_unit 0 22 ji7^3]K:6Xjjk>HI;O[Jj2
+R4
+R14
+r1
+!s85 0
+!i10b 1
+!s100 gAMM5833kJDhi3e?hc2@^2
+IXdiC?gkmi0:dX<?OmjIHz2
+!s105 design_sv_unit
+S1
+R0
+R5
+8traffic_light_controller_part2_starter.sv
+R7
+!i122 0
+L0 9 321
+R9
+31
+R10
+R11
+R12
+!i113 0
+R13
+R1

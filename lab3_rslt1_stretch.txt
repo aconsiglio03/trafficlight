@@ -1,0 +1,263 @@
+e   e   w   w   n        e     e     w     w     n
+l   s   l   s   s        l     s     l     s     s
+                              esg         wsg                            3
+                                                                        13
+                                                                        23
+el                                                                      33
+el                      elg   esg                                       43
+el                      elg   esg                                       53
+el      wl              elg   esg                                       63
+el      wl              elg   esg                                       73
+el      wl              elg   esg                                       83
+el      wl              elg   esg                                       93
+el      wl              elg   esg                                      103
+el      wl              elg   esg                                      113
+        wl              elg   esg                                      123
+        wl              elg   esg                                      133
+    es  wl              elg   esg                                      143
+    es  wl              elg   esg                                      153
+    es  wl              ely   esy                                      163
+    es  wl  ws          ely   esy                                      173
+    es  wl  ws                                                         183
+    es  wl  ws                      wlg   wsg                          193
+    es  wl  ws                      wlg   wsg                          203
+    es  wl  ws                      wlg   wsg                          213
+    es  wl  ws                      wlg   wsg                          223
+        wl  ws                      wlg   wsg                          233
+        wl                          wlg   wsg                          243
+        wl                          wlg   wsg                          253
+        wl                          wlg   wsg                          263
+                                    wlg   wsg                          273
+                                    wlg   wsg                          283
+                                    wly   wsy                          293
+                                    wly   wsy                          303
+                                                                       313
+                                                                       323
+                                                                       333
+                                                                       343
+                                                                       353
+                                                                       363
+                                                                       373
+                                                                       383
+                                                                       393
+                                                                       403
+                                                                       413
+                                                                       423
+                                                                       433
+                                                                       443
+                                                                       453
+                                                                       463
+                ns                                                     473
+                ns                              nsg                    483
+                ns                              nsg                    493
+                ns                              nsg                    503
+                ns                              nsg                    513
+                ns                              nsg                    523
+                                                nsg                    533
+                                                nsg                    543
+                                                nsg                    553
+                                                nsg                    563
+                                                nsg                    573
+                                                nsy                    583
+                                                nsy                    593
+                                                                       603
+                                                                       613
+                                                                       623
+                                                                       633
+                                                                       643
+                                                                       653
+                                                                       663
+                                                                       673
+                                                                       683
+                                                                       693
+                                                                       703
+                                                                       713
+                                                                       723
+                ns                                                     733
+                ns                              nsg                    743
+                ns                              nsg                    753
+                ns                              nsg                    763
+                ns                              nsg                    773
+                ns                              nsg                    783
+                ns                              nsg                    793
+                ns                              nsg                    803
+                ns                              nsg                    813
+                ns                              nsg                    823
+el              ns                              nsg                    833
+el              ns                              nsg                    843
+el              ns                              nsg                    853
+el              ns                              nsg                    863
+el              ns                              nsg                    873
+el              ns                              nsg                    883
+el              ns                              nsg                    893
+el              ns                              nsg                    903
+el              ns                              nsg                    913
+el              ns                              nsg                    923
+el              ns                              nsy                    933
+el              ns                              nsy                    943
+el              ns                                                     953
+el              ns      elg   esg                                      963
+el              ns      elg   esg                                      973
+el              ns      elg   esg                                      983
+el              ns      elg   esg                                      993
+el              ns      elg   esg                                     1003
+el              ns      elg   esg                                     1013
+el              ns      elg   esg                                     1023
+el                      elg   esg                                     1033
+el                      elg   esg                                     1043
+                        elg   esg                                     1053
+                        ely   esy                                     1063
+                        ely   esy                                     1073
+                                                                      1083
+                                                                      1093
+                                                                      1103
+                                                                      1113
+                                                                      1123
+                                                                      1133
+                                                                      1143
+el  es  wl  ws  ns                                                    1153
+el  es  wl  ws  ns                  wlg   wsg                         1163
+el  es  wl  ws  ns                  wlg   wsg                         1173
+el  es  wl  ws  ns                  wlg   wsg                         1183
+el  es  wl  ws  ns                  wlg   wsg                         1193
+el  es  wl  ws  ns                  wlg   wsg                         1203
+el  es  wl  ws  ns                  wlg   wsg                         1213
+el  es  wl  ws  ns                  wlg   wsg                         1223
+el  es  wl  ws  ns                  wlg   wsg                         1233
+el  es  wl  ws  ns                  wlg   wsg                         1243
+el  es  wl  ws  ns                  wlg   wsg                         1253
+el  es  wl  ws  ns                  wly   wsy                         1263
+el  es  wl  ws  ns                  wly   wsy                         1273
+el  es  wl  ws  ns                                                    1283
+el  es  wl  ws  ns      elg         wlg                               1293
+el  es  wl  ws  ns      elg         wlg                               1303
+el  es  wl  ws  ns      elg         wlg                               1313
+el  es  wl  ws  ns      elg         wlg                               1323
+el  es  wl  ws  ns      elg         wlg                               1333
+el  es  wl  ws  ns      elg         wlg                               1343
+el  es  wl  ws  ns      elg         wlg                               1353
+el  es  wl  ws  ns      elg         wlg                               1363
+el  es  wl  ws  ns      elg         wlg                               1373
+el  es  wl  ws  ns      elg         wlg                               1383
+el  es  wl  ws  ns      ely         wly                               1393
+el  es  wl  ws  ns      ely         wly                               1403
+el  es  wl  ws  ns                                                    1413
+el  es  wl  ws  ns                              nsg                   1423
+el  es  wl  ws  ns                              nsg                   1433
+el  es  wl  ws  ns                              nsg                   1443
+el  es  wl  ws  ns                              nsg                   1453
+el  es  wl  ws  ns                              nsg                   1463
+el  es  wl  ws  ns                              nsg                   1473
+el  es  wl  ws  ns                              nsg                   1483
+el  es  wl  ws  ns                              nsg                   1493
+el  es  wl  ws  ns                              nsg                   1503
+el  es  wl  ws  ns                              nsg                   1513
+el  es  wl  ws  ns                              nsy                   1523
+el  es  wl  ws  ns                              nsy                   1533
+el  es  wl  ws  ns                                                    1543
+el  es  wl  ws  ns            esg         wsg                         1553
+el  es  wl  ws  ns            esg         wsg                         1563
+el  es  wl  ws  ns            esg         wsg                         1573
+el  es  wl  ws  ns            esg         wsg                         1583
+el  es  wl  ws  ns            esg         wsg                         1593
+el  es  wl  ws  ns            esg         wsg                         1603
+el  es  wl  ws  ns            esg         wsg                         1613
+el  es  wl  ws  ns            esg         wsg                         1623
+el  es  wl  ws  ns            esg         wsg                         1633
+el  es  wl  ws  ns            esg         wsg                         1643
+el  es  wl  ws  ns            esy         wsy                         1653
+el  es  wl  ws  ns            esy         wsy                         1663
+el  es  wl  ws  ns                                                    1673
+el  es  wl  ws  ns      elg   esg                                     1683
+el  es  wl  ws  ns      elg   esg                                     1693
+el  es  wl  ws  ns      elg   esg                                     1703
+el  es  wl  ws  ns      elg   esg                                     1713
+el  es  wl  ws  ns      elg   esg                                     1723
+el  es  wl  ws  ns      elg   esg                                     1733
+el  es  wl  ws  ns      elg   esg                                     1743
+el  es  wl  ws  ns      elg   esg                                     1753
+el  es  wl  ws  ns      elg   esg                                     1763
+el  es  wl  ws  ns      elg   esg                                     1773
+el  es  wl  ws  ns      ely   esy                                     1783
+el  es  wl  ws  ns      ely   esy                                     1793
+el  es  wl  ws  ns                                                    1803
+el  es  wl  ws  ns                  wlg   wsg                         1813
+el  es  wl  ws  ns                  wlg   wsg                         1823
+el  es  wl  ws  ns                  wlg   wsg                         1833
+el  es  wl  ws  ns                  wlg   wsg                         1843
+el  es  wl  ws  ns                  wlg   wsg                         1853
+el  es  wl  ws  ns                  wlg   wsg                         1863
+el  es  wl  ws  ns                  wlg   wsg                         1873
+el  es  wl  ws  ns                  wlg   wsg                         1883
+el  es  wl  ws  ns                  wlg   wsg                         1893
+el  es  wl  ws  ns                  wlg   wsg                         1903
+el  es  wl  ws  ns                  wly   wsy                         1913
+el  es  wl  ws  ns                  wly   wsy                         1923
+el  es  wl  ws  ns                                                    1933
+el  es  wl  ws  ns      elg         wlg                               1943
+el  es  wl  ws  ns      elg         wlg                               1953
+el  es  wl  ws  ns      elg         wlg                               1963
+el  es  wl  ws  ns      elg         wlg                               1973
+el  es  wl  ws  ns      elg         wlg                               1983
+el  es  wl  ws  ns      elg         wlg                               1993
+el  es  wl  ws  ns      elg         wlg                               2003
+el  es  wl  ws  ns      elg         wlg                               2013
+el  es  wl  ws  ns      elg         wlg                               2023
+el  es  wl  ws  ns      elg         wlg                               2033
+el  es  wl  ws  ns      ely         wly                               2043
+el  es  wl  ws  ns      ely         wly                               2053
+el  es  wl  ws  ns                                                    2063
+el  es  wl  ws  ns                              nsg                   2073
+el  es  wl  ws  ns                              nsg                   2083
+el  es  wl  ws  ns                              nsg                   2093
+el  es  wl  ws  ns                              nsg                   2103
+el  es  wl  ws  ns                              nsg                   2113
+el  es  wl  ws  ns                              nsg                   2123
+el  es  wl  ws  ns                              nsg                   2133
+el  es  wl  ws  ns                              nsg                   2143
+el  es      ws  ns                              nsg                   2153
+el  es      ws  ns                              nsg                   2163
+el  es      ws  ns                              nsy                   2173
+el  es      ws  ns                              nsy                   2183
+el  es      ws  ns                                                    2193
+el  es      ws  ns            esg         wsg                         2203
+el  es      ws  ns            esg         wsg                         2213
+el  es      ws  ns            esg         wsg                         2223
+el  es      ws  ns            esg         wsg                         2233
+el  es      ws  ns            esg         wsg                         2243
+el  es      ws  ns            esg         wsg                         2253
+el  es      ws  ns            esg         wsg                         2263
+el  es      ws  ns            esg         wsg                         2273
+el  es      ws  ns            esg         wsg                         2283
+el  es      ws  ns            esg         wsg                         2293
+el  es      ws  ns            esy         wsy                         2303
+el  es      ws  ns            esy         wsy                         2313
+el  es      ws  ns                                                    2323
+el  es      ws  ns      elg   esg                                     2333
+el  es      ws  ns      elg   esg                                     2343
+el          ws          elg   esg                                     2353
+el          ws          elg   esg                                     2363
+el          ws          elg   esg                                     2373
+el          ws          elg   esg                                     2383
+el                      elg   esg                                     2393
+el                      elg   esg                                     2403
+                        elg   esg                                     2413
+                        elg   esg                                     2423
+                        ely   esy                                     2433
+                        ely   esy                                     2443
+                                                                      2453
+                                                                      2463
+                                                                      2473
+                                                                      2483
+                                                                      2493
+                                                                      2503
+                                                                      2513
+                                                                      2523
+                                                                      2533
+                                                                      2543
+                                                                      2553
+                                                                      2563
+                                                                      2573
+                                                                      2583
+                                                                      2593
+                                                                      2603
